@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SirMikeD
 - 👀 I’m interested in: Learning in general, Space, electronics of all sorts, 3D priting.
-- 🌱 I’m currently learning: Coding (HTML,CAA,Javascript, etc..)
+- 🌱 I’m currently learning: Coding (HTML,Javascript, Python, etc..)
 - 💞️ I’m looking to collaborate on: Making a video game
 - 📫 How to reach me ...
 - ⚡ Fun fact: ...
